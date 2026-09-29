@@ -1,4 +1,5 @@
-Sales Analyst Dashboard
+# 📊 Sales Analytics Dashboard (Power BI + Python)
+
 
 📌 Project Overview
 
@@ -49,7 +50,6 @@ analyze it, and present useful insights through an interactive dashboard.
 - Python Pandas
 
 
-# 📊 Sales Analytics Dashboard (Power BI + Python)
 
 ## 🎯 Objective
 Understand sales performance from 2022 to 2025 and answer business questions such as:
