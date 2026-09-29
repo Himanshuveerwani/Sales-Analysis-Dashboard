@@ -99,6 +99,4 @@ Understand sales performance from 2022 to 2025 and answer business questions suc
 - Grow the New Customer and Premium segments, which are currently small.
 
 
-## 👤 Author
-**[Himanshu veerwani]** — BCA | Aspiring Data Analyst
 
